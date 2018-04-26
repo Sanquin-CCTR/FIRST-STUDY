@@ -12,7 +12,7 @@ This repository contains  4 directories
 1. First n=466.sav ( dataset per patient)
 2. FIRST LONG_1 (dataset per follow-up)
 3. Syntax Table 1 Appendix Table C (SPSS syntax to generate table and Appendix Table C from FIRST n=466.sav)
-4. Synax Appendix tables A, B en C (SPSS syntax will genetate Appendix tables A,B, en C from FIRST LONG_1.sav
+4. Synax table 2 and Appendix tables A, B en D and (SPSS syntax will genetate table 2 and Appendix tables A,B, en D from FIRST LONG_1.sav
 
 
 
