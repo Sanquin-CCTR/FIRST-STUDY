@@ -7,10 +7,13 @@ Authors: Wiebe C. Verra, Joost A. van Hilten, Áine Honohan, Erik W. van Zwet, J
 
 Corresponding author - Wiebe C. Verra; wiebe.verra@gmail.com 
 
-This repository contains   directories
+This repository contains  4 directories
 
-1. 
-2. 
+1. First n=466.sav ( dataset per patient)
+2. FIRST LONG_1 (dataset per follow-up)
+3. Syntax Table 1 Appendix Table C (SPSS syntax to generate table and Appendix Table C from FIRST n=466.sav)
+4. Synax Appendix tables A, B en C (SPSS syntax will genetate Appendix tables A,B, en C from FIRST LONG_1.sav
+
 
 
 
