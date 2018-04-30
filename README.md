@@ -9,9 +9,9 @@ Corresponding author - Wiebe C. Verra; wiebe.verra@gmail.com
 
 This repository contains  4 directories
 
-1. First short.sav (per-patient dataset)
-2. FIRST LONG (per follow-up dataset)
-3. Syntax 1: Use [FIRST SHORT.sav]  to generate per patient results
+1. FIRST short.sav: per-patient dataset
+2. FIRST long.sav: per-follow-up dataset
+3. Syntax 1: Use [FIRST SHORT.sav]  to generate per-patient results
 4. Synax 2: Use [FIRST LONG.sav] to generate out-come results.
 
 
